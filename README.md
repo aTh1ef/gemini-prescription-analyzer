@@ -37,6 +37,21 @@ The application is built with:
     *   Uses the HTML5 Canvas API to draw the bounding boxes over the original image based on the coordinates received.
     *   Dynamically displays the list of extracted medicine names.
 
+## Output
+
+Below is an example of how the application processes a dummy handwritten prescription to test its capabilities.
+
+**(The first output is the original image with the identified medicines segmented and highlighted. This process, known as **annotation**, involves drawing bounding boxes around each detected medicine and labeling them with the extracted text. This provides immediate visual confirmation of what the AI has found and where.)**
+
+**<img width="626" height="642" alt="image" src="https://github.com/user-attachments/assets/3d74443a-3519-4c83-9984-ee08ca6f7d4a" />**
+
+
+**(Image showing the UI's final list of extracted medicines)**
+
+<img width="649" height="252" alt="image" src="https://github.com/user-attachments/assets/fa009425-6e6b-4924-8d80-ea9e586dc456" />
+
+
+
 ## How to Use
 
 1.  Clone or download the repository.
