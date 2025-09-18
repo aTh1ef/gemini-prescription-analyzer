@@ -50,6 +50,10 @@ Below is an example of how the application processes a dummy handwritten prescri
 
 <img width="649" height="252" alt="image" src="https://github.com/user-attachments/assets/fa009425-6e6b-4924-8d80-ea9e586dc456" />
 
+---
+**Note:** The sample prescriptions used for testing are created by me for demonstration purposes only. They are not prescribed by a real doctor and are used solely to evaluate the AI's extraction and segmentation performance.
+---
+
 
 
 ## How to Use
